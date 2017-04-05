@@ -1,0 +1,38 @@
+Name: Youngmin Shin 
+USC ID: 2794 6231 67 
+News site crawled: abcnews.go.com 
+
+Fetch Statistics 
+===================== 
+# fetches attempted: 500
+# fetched succeeded: 493
+# fetched aborted: 0
+# fetched failed: 7
+# fetched visited: 493
+
+Outgoing URLs 
+===================== 
+Total URLs extracted: 15743
+# unique URLs extracted: 10179
+# unique URLs within News Site: 6975
+# unique URLs outside News Site: 3204
+
+Status Codes
+=====================
+200 OK: 493
+301 Moved Permanently: 3
+302 Found: 4
+
+File Size
+=====================
+< 1KB: 1
+1KB ~ <10KB: 7
+10KB ~ <100KB: 442
+100KB ~ <1MB: 42
+>= 1MB: 1
+
+Content Types 
+===================== 
+text/html: 483
+image/jpeg: 3
+
